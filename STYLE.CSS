@@ -124,3 +124,7 @@ body::after {
         grid-template-columns: 1fr;
     }
 }
+.conteudo h2 {
+    /*Diminui o tamanho do titulo no celular*/
+    padding: 22px;
+}
