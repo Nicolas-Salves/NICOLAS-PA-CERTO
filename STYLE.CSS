@@ -126,5 +126,9 @@ body::after {
 }
 .conteudo h2 {
     /*Diminui o tamanho do titulo no celular*/
+    font-size: 1.6rem;
+}
+.info-card {
+    /*Ajusta o espaçamento interno dos cartões*/
     padding: 22px;
 }
