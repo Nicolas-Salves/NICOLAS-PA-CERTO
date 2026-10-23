@@ -114,3 +114,9 @@ body::after {
     font-size: 1.4rem;
     margin-bottom: 15 px;
 }
+.info-card p:last-child {
+    margin-bottom: 0;
+}
+@media (max-width: 768px) {
+    
+}
