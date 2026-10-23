@@ -118,5 +118,9 @@ body::after {
     margin-bottom: 0;
 }
 @media (max-width: 768px) {
-    
+    .informacoes {
+        /*organiza os cartões um abaixo do outro
+        quando a tela for pequena*/
+        grid-template-columns: 1fr;
+    }
 }
